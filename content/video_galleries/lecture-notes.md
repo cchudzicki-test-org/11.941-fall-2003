@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides lecture notes from selected lecture sessions and
+  sample videos from guest lecturers.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
